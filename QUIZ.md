@@ -4,7 +4,14 @@ Answer the following questions. Add each answer in a separate commit. (E.g. fill
 
 1. Explain how git enables saving code.
 
-Git allows users to save code by providing a codebase, or repository, for code at any period in development. The working code directory can then be used to experiment and make changes which may or may not be committed to the repository.
+	Answer1 :- 
+	Git allows users to save code by providing a codebase,
+	or repository, for code at any period in development. 
+	The working code directory can then be used to experiment 
+	and make changes which may or may not be committed to the 
+	repository.
+	
+	Question1 commit meg "Answers question 1"
 
 2. Explain how git enables tracking code.
 

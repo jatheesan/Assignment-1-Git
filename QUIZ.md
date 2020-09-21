@@ -15,7 +15,7 @@ Answer the following questions. Add each answer in a separate commit. (E.g. fill
 
 2. Explain how git enables tracking code.
 	
-	Answer1 :-
+	Answer2 :-
 	Git enables tracking code by saving snapshots of a
 	repository's state throughout development.
 	This way, the code and file's individual changes can
@@ -26,5 +26,14 @@ Answer the following questions. Add each answer in a separate commit. (E.g. fill
 	Question2 commit meg "Answers question 2"
 
 3. Explain how git enables sharing code.
+	
+	Answer3 :-
+	Git enables sharing code by allowing users to
+	clone and fork repositories so that they can make
+	changes to their own version of the code.
+	The changes can be reconciled when users push their
+	commits to the branch or merge their respective branches.
+	Commit messages, user ID's and timestamps allow users
+	to see where why and how they are changing the code.
 
-Git enables sharing code by allowing users to clone and fork repositories so that they can make changes to their own version of the code. The changes can be reconciled when users push their commits to the branch or merge their respective branches. Commit messages, user ID's and timestamps allow users to see where why and how they are changing the code.
+	Question3 commit meg "Answers question 3"
